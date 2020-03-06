@@ -41,11 +41,11 @@ namespace Lesson6HomeworkApp
 
             //Add stuff to a dictionary
             FishMenu.Add("Salmon", 10);
-            FishMenu.Add("Carp", 5);
+            FishMenu.Add("Carp", 15);
             FishMenu.Add("Rainbow Trout", 8);
             FishMenu.Add("Brook Trout", 9);
             FishMenu.Add("Tuna", 4);
-            FishMenu.Add("Snack Size Special", 15);
+            FishMenu.Add("Snack Size Special", 25);
 
             return FishMenu;
         }
@@ -64,7 +64,7 @@ namespace Lesson6HomeworkApp
             ChipsMenu.Add("Unsalted", 1);
             ChipsMenu.Add("Fish Skin", 4);
             ChipsMenu.Add("Seaweed", 2);
-            ChipsMenu.Add("Snack Size Special", 15);
+            ChipsMenu.Add("Snack Size Special", 25);
 
             return ChipsMenu;
         }
